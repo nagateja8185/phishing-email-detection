@@ -1,0 +1,31 @@
+id,subject,body,label
+1,Verify your account,"Your account will be suspended. Click http://fakebank.com/login to verify.",1
+2,Urgent: Password reset,"Reset your password immediately at http://phishingsite.com/reset",1
+3,Action required: Confirm email,"Please confirm your email by clicking http://malicioussite.com/confirm",1
+4,Account security alert,"We noticed a login from a new device. Verify here http://phishingsite2.com",1
+5,Payment failed,"Your payment failed. Update your billing at http://fakepay.com/update",1
+6,Unusual activity detected,"Unusual activity found, confirm at http://secure-check.com",1
+7,Claim your prize,"Congratulations! Claim your prize here http://prizeclaim.example",1
+8,Invoice overdue,"Your invoice is overdue. Pay now at http://invoices-pay.example",1
+9,Subscription expiring,"Your subscription will end, renew at http://renew.example",1
+10,Verify identity,"We need to verify your identity. Upload documents at http://verify-docs.example",1
+11,Confirm delivery,"Your package couldn't be delivered. Provide details at http://fakepost.example",1
+12,Update required,"Your software license needs updating. Go to http://update-license.example",1
+13,Tax refund notice,"You have a tax refund waiting — click http://taxrefund.example to claim",1
+14,Security verification,"Please complete security verification at http://secure-verify.example",1
+15,Password expiration,"Your password expired, reset it here http://reset-password.example",1
+16,Meeting tomorrow,"Hi team, reminder about tomorrow’s meeting at 10 AM.",0
+17,Lunch plans,"Hey, want to grab lunch today?",0
+18,Project update,"The latest project updates are attached. Please review.",0
+19,Coffee meeting,"Let's meet for coffee next week.",0
+20,Happy Birthday!,"Wishing you a very happy birthday — have a great day!",0
+21,Monthly report,"Attached is the monthly report, let me know your feedback.",0
+22,Interview schedule,"Your interview is scheduled for Monday at 11:00 AM.",0
+23,Invoice from vendor,"Please find attached invoice from the vendor for April.",0
+24,Team outing,"Planning a team outing next Friday, reply if you can join.",0
+25,Class notes,"Sharing today's class notes and assignments, see attached.",0
+26,Gym membership,"Your gym membership renewal is due, visit the front desk.",0
+27,Invitation: Workshop,"You are invited to our workshop on Saturday, RSVP if interested.",0
+28,Reminder: Assignment,"Friendly reminder: submit the assignment by Sunday evening.",0
+29,Lab results,"Your lab test results are ready. Please check the secure portal.",0
+30,Holiday plans,"Thinking about holiday plans — do you prefer mountains or beach?",0
